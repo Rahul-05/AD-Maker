@@ -1,4 +1,4 @@
 # AD-Maker
 
 
-Download through the link : https://www.kaggle.com/datasets/leadbest/googlenewsvectorsnegative300
+Download dataset through the link : https://www.kaggle.com/datasets/leadbest/googlenewsvectorsnegative300
